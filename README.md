@@ -1,5 +1,11 @@
 # K2-Micrometer-Leveling
 
+Get precise measurements using a micrometer to calibrate your K2 Plus bed.  I'm using a $20 one from https://amzn.to/3NqYsAP .  You will need to print the bracket from https://www.crealitycloud.com/model-detail/creality-k2-plus-dial-gauge-adapter .  
+
+Check out the original at https://github.com/DnG-Crafts/K2-Leveling
+
+No changes other than adding a micrometer and adjusting the bed height to accomodate.
+
 Macros for the K2 Plus bed leveling video
 
 [![https://www.youtube.com/watch?v=qKrKXGRXfWs](https://img.youtube.com/vi/qKrKXGRXfWs/0.jpg)](https://www.youtube.com/watch?v=qKrKXGRXfWs)
